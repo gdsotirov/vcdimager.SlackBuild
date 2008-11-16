@@ -1,0 +1,11 @@
+vcdimager: VCDImager (A VideoCD (VCD) image mastering and ripping tool)
+vcdimager:
+vcdimager: GNU VCDImager is a full-featured mastering suite for authoring,
+vcdimager: disassembling and analyzing Video CDs and Super Video CDs.
+vcdimager: The package contains a collection of tools to master
+vcdimager: (Super)VideoCD, either directly from compliant MPEG streams with
+vcdimager: no PlayBack Control (PBC), or out of an XML description for a
+vcdimager: full-featured (S)VCD.
+vcdimager: The package also contains a VideoCD ripping tool to rip mpeg
+vcdimager: streams from VideoCD images, and some debugging tools. 
+vcdimager: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
