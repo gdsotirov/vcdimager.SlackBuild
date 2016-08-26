@@ -1,5 +1,5 @@
-glibc-solibs >= 2.7
+glibc-solibs >= 2.9
 libcdio >= 0.79
-libxml2 >= 2.6.31
+libxml2 >= 2.7.3
 popt >= 1.7
 zlib >= 1.2.3
